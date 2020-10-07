@@ -1,3 +1,5 @@
+package main.java;
+
 public class JavaComments{
 public static void main(String[] args){
 //This is a single line comment

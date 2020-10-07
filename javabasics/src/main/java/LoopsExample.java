@@ -1,3 +1,5 @@
+package main.java;
+
 public class LoopsExample {
     static {
         System.out.println("Hi there");
@@ -11,5 +13,4 @@ public class LoopsExample {
         }
 
     }
-
 }

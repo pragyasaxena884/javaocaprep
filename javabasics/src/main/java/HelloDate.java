@@ -1,3 +1,5 @@
+package main.java;
+
 public class HelloDate{
 // public is a access modifier to call it from anywhere
 // static : can be called without object

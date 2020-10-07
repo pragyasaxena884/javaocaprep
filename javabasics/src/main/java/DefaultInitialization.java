@@ -1,3 +1,5 @@
+package main.java;
+
 public class DefaultInitialization {
     //instance variable have default value
 // number defaults to zero
